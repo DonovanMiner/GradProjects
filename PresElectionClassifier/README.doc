@@ -1,1 +1,15 @@
+DESCRIPTION:
+  
 
+
+DEPENDENCIES:
+  Python v 3.11
+  Streamlit v 1.25.0
+  Pandas
+  Numpy
+  SciPy
+  SKLearn
+  MatPlotLib - PyPlot
+  MatPlotLib - Polygon
+  MatPlotLib - Patch Collection
+  MatPlotLib - Basemap
