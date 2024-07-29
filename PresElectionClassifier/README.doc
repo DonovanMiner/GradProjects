@@ -13,3 +13,6 @@ DEPENDENCIES:
   MatPlotLib - Polygon
   MatPlotLib - Patch Collection
   MatPlotLib - Basemap
+
+
+Shapefiles from: https://github.com/matplotlib/basemap/tree/master/examples
